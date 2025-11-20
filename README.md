@@ -1,6 +1,6 @@
 # Thakshitha's Static Website
 
-This is my personal portfolio website deployed using GitHub Pages as part of Task 5.
+This is my personal portfolio website deployed using GitHub Pages 
 
 ## Live Demo
 Visit: https://thakshitha-21.github.io
